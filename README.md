@@ -4,7 +4,7 @@
 
 
 ### Results - 
-##### The model with the highest accuracy score was our default Naive Bayes, with a 77.8% prediction rate. By tuning the parameters on our classifier we were able to decrease the overfitting on our model, but with a decrease in accuracy score. In addition, we also ran the Random Forest Regression model, but its accuracy score was only 68%.
+##### The model with the highest accuracy score was our default Naive Bayes, with a 77.8% prediction rate. By tuning the parameters on our classifier we were able to decrease the overfitting on our model, but with a decrease in accuracy score. In addition, we also ran the Random Forest Regression model, but the accuracy score was only 68%.
 
 
 
